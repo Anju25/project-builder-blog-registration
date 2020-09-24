@@ -1,6 +1,7 @@
 package testing;
 
 import static org.junit.Assert.*;
+
 import org.junit.Test;
 
 import businesslogic.ValidateUser;
